@@ -1,6 +1,5 @@
 {
     "name": "lzguoz/laraveladmin",
-    "type": "library",
     "description": "laravel 5.1 admin",
     "keywords": ["thorlei", "laravel 5"],
     "license": "MIT",
@@ -10,9 +9,7 @@
     }],
     "version": "0.0.1",
     "require": {
-        "php": ">=5.5.9",
-        "illuminate/routing": "5.1.*",
-        "illuminate/support": "5.1.*"
+        "php": ">=5.5.9"
     },
     "autoload": {
         "psr-4": {
