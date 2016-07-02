@@ -1,0 +1,23 @@
+{
+    "name": "thorlei/laravel-admin",
+    "type": "library",
+    "description": "laravel 5.1 admin",
+    "keywords": ["thorlei", "laravel 5"],
+    "license": "MIT",
+    "authors": [{
+        "name": "thorlei",
+        "email": "lzlgz2011@163.com"
+    }],
+    "version": "0.0.1",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/routing": "5.1.*",
+        "illuminate/support": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thorlei\\Laravel\\Admin\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
